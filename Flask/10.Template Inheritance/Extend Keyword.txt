@@ -1,0 +1,3 @@
+To import ant html file to another .html file 
+Synatx:-
+{% extends "file_name.html" %}
