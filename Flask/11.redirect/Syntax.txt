@@ -1,0 +1,2 @@
+Syntax:-
+redirect(url_for('mention_the_method_name_here'))
